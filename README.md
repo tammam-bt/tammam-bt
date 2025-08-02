@@ -75,6 +75,21 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 </p>
 
 ---
+## 🌟 Featured Projects
+
+### 🔹 TuniCompare
+A web application that scrapes product listings (Laptops, Desktops, and Monitors) from major Tunisian tech retailers like Mytek, Tunisianet, and ScoopGaming.  
+It organizes and compares the data using a clean interface built with HTML, CSS, and JavaScript — powered by a Flask backend and PostgreSQL database.
+
+**Key Features:**
+- 📊 Product comparison from multiple retailers  
+- ⚙️ Backend with Python, Flask, and PostgreSQL  
+- 🌐 Frontend using plain HTML/CSS/JavaScript  
+- 🔎 Search and filter functionality
+
+🔗 [View Repository](https://github.com/tammam-bt/TuniCompare)
+
+---
 
 # 🏆 GitHub Trophies
 
