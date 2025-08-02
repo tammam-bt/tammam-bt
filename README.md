@@ -1,120 +1,97 @@
-<h1 align="center">Hi 👋, I'm Tammam Bettayeb</h1>
-<h3 align="center">Building the better future with code.</h3>
 
-<!-- About Me Section -->
-<div align="center">
-  <p>📫 How to reach me: <strong>tambett10@gmail.com</strong></p>
-</div>
+# Hi 👋, I'm Tammam Bettayeb
+## Building the better future with code.
 
-<!-- Connect with Me Section -->
-<h3 align="center">Connect with me:</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; width: 100%; max-width: 800px; margin: 0 auto; padding: 20px 0;">
-  <div style="text-align: center; flex: 1;">
-    <p><strong>LinkedIn</strong></p>
-    <a href="https://linkedin.com/in/tammam-bettayeb" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="100" width="100"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <p><strong>Facebook</strong></p>
-    <a href="https://fb.com/tammam.ca" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="100" width="100"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <p><strong>Instagram</strong></p>
-    <a href="https://instagram.com/tammam_bt" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="100" width="100"/>
-    </a>
-  </div>
-</div>
+---
+# 👨‍💻 About Me
 
-<br><br>
+Hello! I'm **Tammam Bettayeb**, a passionate **Computer Science student** at *École Nationale Supérieure de l'Informatique (ESI)*.  
+I specialize in:
 
-<!-- Tech Stack Section -->
-<h3 align="center">Languages and Tools:</h3>
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto; padding: 20px;">
-  <div style="text-align: center; flex: 30%; min-width: 120px; margin: 10px;">
-    <p><strong>Python</strong></p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 30%; min-width: 120px; margin: 10px;">
-    <p><strong>JavaScript</strong></p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 30%; min-width: 120px; margin: 10px;">
-    <p><strong>HTML5</strong></p>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>CSS3</strong></p>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>Flask</strong></p>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>MySQL</strong></p>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>PostgreSQL</strong></p>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>SQLite</strong></p>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>Git</strong></p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="90" height="90"/>
-    </a>
-  </div>
-  <div style="text-align: center; flex: 0 1 calc(20% - 20px); min-width: 120px; margin: 10px;">
-    <p><strong>Selenium</strong></p>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="90" height="90"/>
-    </a>
-  </div>
-</div>
+- 🕸️ **Web scraping and automation using Python** — extracting data, bypassing obstacles, and building smart scripts to simplify the web.  
+- 🌐 **Web development** — capable of creating functional and elegant websites using HTML, CSS, JavaScript, and Flask.  
+- ⚙️ Constantly exploring new technologies, solving real-world problems, and building open-source projects to learn and grow.
 
-<br><br>
+Feel free to explore my repositories and reach out if you'd like to collaborate or connect!
 
-<!-- GitHub Trophies Section -->
-<h3 align="center">GitHub Trophies:</h3>
-<div align="center">
+
+---
+
+# 📫 How to reach me
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tambett10@gmail.com&su=Exploring%20a%20Potential%20Collaboration%20Opportunity&body=Hello%20Tammam%2C%0A%0AI%20recently%20came%20across%20your%20work%20and%20was%20genuinely%20impressed.%20I%E2%80%99d%20love%20to%20discuss%20a%20potential%20collaboration%20on%20an%20idea%20I%20believe%20you%E2%80%99d%20find%20exciting.%20Looking%20forward%20to%20hearing%20from%20you."
+>
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="Gmail" width="300"  height="300"/>
+  </a>  
+</p>
+
+---
+
+# 🤝 Connect with me
+
+<p align="center">
+  <a href="https://fb.com/tammam.ca" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="100" height="100"/>
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width: 8%;"></span>
+  <a href="https://instagram.com/tammam_bt" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="100" height="100"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tammam-bettayeb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="100" height="100"/>
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01ead03f1e4e4b36ca?mp_source=share" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Upwork-Logo-Black.svg" alt="Upwork" width="200" height="200"/>
+  </a>    
+</p>
+
+---
+
+# 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=720/uploads/users/30/posts/16037/preview_image/flask.png" alt="Flask" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="80" height="80"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tammam-bt&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a>
-</div>
+</p>
 
-<br><br>
+---
 
-<!-- GitHub Stats Section -->
-<div align="center">
+# 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tammam-bt&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tammam-bt&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</div>
+</p>
