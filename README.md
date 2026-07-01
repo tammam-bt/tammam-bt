@@ -70,23 +70,23 @@ A heavy-duty price aggregation and hardware comparison engine evaluating the Tun
 ---
 
 # 🤝 Connect & Collaborate
-
 <p align="center">
-  <a href="https://linkedin.com/in/tammam-bettayeb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01ead03f1e4e4b36ca" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/upwork/upwork-original.svg" alt="Upwork" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/tammam.ca" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width: 8%;"></span>
   <a href="https://instagram.com/tammam_bt" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tammam-bettayeb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01ead03f1e4e4b36ca?mp_source=share" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" width="50" height="50"/>
+  </a>    
 </p>
 
 ### 📧 Get In Touch
@@ -99,17 +99,3 @@ Click the button below to drop me a line directly regarding open-source contribu
 </p>
 
 ---
-
-# 📊 Git Analytics
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tammam-bt&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tammam-bt&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tammam-bt&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
