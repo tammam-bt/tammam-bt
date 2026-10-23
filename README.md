@@ -52,7 +52,7 @@ I bypass high-level abstractions to understand, build, and optimize systems from
 
 ## 🌟 Featured Projects
 
-### 📦 [Axiom-ml](https://github.com/tammam-bt/Axiom-ml)
+### 📦 [Axiom-ml](https://github.com/tammam-bt/Axiom)
 A lightweight machine learning and deep learning library built entirely **from scratch using NumPy** and distributed via PyPI. Designed with a professional `src/` layout, it avoids high-level frameworks to implement core algorithmic mechanics explicitly.
 - **Key Features:** Full feedforward neural networks, decision trees, linear regression, and logistic regression engines.
 - **Tech:** Python, NumPy, PyPI Packaging.
